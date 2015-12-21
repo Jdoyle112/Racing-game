@@ -1,0 +1,40 @@
+#img {
+	position: absolute;
+	left: 10px;
+	margin-top: 5%; 
+}
+
+#output {
+	margin-top: 10%;
+	font-family: 'Lato';
+	font-size: 60px;
+	text-align: center;
+}
+
+.buttons {
+	margin-left: 10px;
+}
+
+button {
+	padding: 10px 20px;
+	border-radius: 5px;
+	margin: 5px;
+}
+
+h1 {
+	margin-left: 10px;
+	font-family: 'Lato';
+	padding-bottom: 20px;
+}
+
+h4 {
+	font-family: 'PT sans';
+	margin-left: 10px;
+	width: 50%;
+	line-height: 1.4em;
+}
+
+#flags {
+	position: absolute;
+	right: 10px;
+}
